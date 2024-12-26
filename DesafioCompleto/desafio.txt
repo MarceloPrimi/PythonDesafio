@@ -1,0 +1,27 @@
+Passos para Realização do Desafio:
+
+Acessar o Site:
+Pathfinder Automation Anywhere - Employee Data Migration Challenge
+
+Cadastro ou Login:
+
+Efetue o cadastro ou login na versão community.
+Nota: O login na plataforma faz parte do desafio.
+Seguir Instruções:
+
+Leia e siga as instruções apresentadas para realizar o desafio.
+
+Versionamento do Código:
+
+Utilize uma solução de cloud para versionar o código, como GitHub, GitLab, ou BitBucket.
+
+Módulo Principal:
+
+Certifique-se de que seu código tenha um módulo principal responsável por orquestrar a automação.
+Modularização da Solução:
+
+Desenvolva a solução de forma modular, garantindo que cada módulo tenha apenas uma responsabilidade.
+Registro em Vídeo:
+
+Crie um arquivo de vídeo no formato .gif, .mp4, ou outro formato similar, demonstrando a execução da solução criada.
+Anexe o vídeo no repositório versionado.
